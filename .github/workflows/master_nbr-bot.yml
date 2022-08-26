@@ -50,4 +50,4 @@ jobs:
           app-name: 'NBR-Bot'
           slot-name: 'Production'
           publish-profile: ${{ secrets.AZUREAPPSERVICE_PUBLISHPROFILE_0D5C70CB31EE407EA14FD924EA3A7C7A }}
-          package: '*.jar'
+          package: 'JMusicBot-Snapshot-All.jar'
